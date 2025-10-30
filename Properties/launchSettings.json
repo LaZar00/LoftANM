@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoftANM": {
+      "commandName": "Project",
+      "commandLineArgs": "-i CINE01.ANM"
+    }
+  }
+}

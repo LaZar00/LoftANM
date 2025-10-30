@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoftANM", "LoftANM.csproj", "{EEF8BD57-73AD-4323-8820-FB3E7E6C081F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF8BD57-73AD-4323-8820-FB3E7E6C081F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF8BD57-73AD-4323-8820-FB3E7E6C081F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF8BD57-73AD-4323-8820-FB3E7E6C081F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF8BD57-73AD-4323-8820-FB3E7E6C081F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4F7582-3C9A-4914-82E3-17988CBEE742}
+	EndGlobalSection
+EndGlobal
